@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sensores</string>
+    <string name="lblBienvenido">Redes y Servicios Móviles</string>
+    <string name="lblSensores">Lectura de sensores</string>
+    <string name="btnIniciar">Iniciar</string>
+    <string name="lblAutor">Daniel Loro Durán</string>
+    <string name="btnParar">Parar</string>
+    <string name="lblEstado">"Estado: "</string>
+    <string name="txtIP" />
+    <string name="lblAyuda">Si la IP se deja en blanco, se asignará la 10.0.2.2 por defecto, entendiendo que se está usando el emulador</string>
+</resources>
